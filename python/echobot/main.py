@@ -17,7 +17,7 @@ bot.
 
 from google.cloud import secretmanager, storage
 import logging
-from telegram import Update, ForceReply, TelegramError
+from telegram import Update, ForceReply
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 from time import sleep
 
