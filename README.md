@@ -1,4 +1,6 @@
 # gcloud-telegram-bot
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/JaderDias/gcloud-telegram-bot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/JaderDias/gcloud-telegram-bot/alerts/)
+
 Run a telegram bot serverlessly on Google Cloud
 
 ## deployment instructions
